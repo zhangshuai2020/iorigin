@@ -14,30 +14,30 @@ homepage:
 Harbin, China
 ```
 - Master in Aerospace Engineering
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
+- Major GPA: __87.75__
 - Dynamics and control, Optimization
 
 ### __Harbin Institute of Technology__ `2013.8 - 2017.7`
 ```
 Harbin, China
 ```
-- B.S. in Aerospace Engineering
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+- B.S. in Aerocraft Design and Engineering
+- Major GPA: __87.75__
+- Honors School
 
 ## Publications  
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)  
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
+### [**Accelerating Training with Pretrained Deep Neural Networks by  Boltzmann Machine**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)  
+**Shuai Zhang\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _IEEE Transactions on Machine Learning._ <br>
 [[PDF](assets/dsldi.pdf)][[slides](assets/dsldi-presentation.pdf)][[www](http://penrose.ink)][[repo](https://github.com/penrose/penrose)]
 
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)  
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
+### [**Orbit Design for Small Thrust Spacecraft by Sequential Convex Programming**](http://scholar.dickinson.edu/student_honors/221/)  
+**Shuai Zhang**.<br> _Journal of Guidance Control and Dynamics. Vol.39, No.2_<br>
 [[PDF](assets/superres.pdf)]
 
 ## Experience  
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`  
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### **Technion, Israel Institue of Technology** `2017.7 - 2017.8`  
+_Summer School_<br>
+**Distributed Space System** is a system that automatically runs in space: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
 ### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`  
 _Research Assistant_<br>
@@ -59,15 +59,8 @@ Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016`
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 ## Honors & Awards  
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-Travel Award for [SPLASH'18](https://2018.splashcon.org/track/splash-2018-PLMW?track=SPLASH%20PLMW)
-
+China Scholarship Council for Summer School `Harbin, 2017` <br>
+Full Scholarship for Summer School ` Israel, 2017` <br>
+First Rank Scholarship for Master School `Harbin, 2017` <br>
 ## Service  
 Research Experiences for Undergraduates in Software Engineering (REUSE) Program Admission Committee `CMU, 2019`
